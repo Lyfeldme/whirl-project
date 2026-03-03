@@ -8,9 +8,9 @@ A modern landing page for **Whirl** — a service that helps you automate your e
 
 ## 🚀 Live Demo
 
-🔗 **Repository:** 
-- **GitHub Pages:** 
-- **Figma:** 
+🔗 **Repository:** https://github.com/Lyfeldme/whirl-project
+- **GitHub Pages:** https://lyfeldme.github.io/whirl-project/
+- **Figma:** https://www.figma.com/design/0PG1gaVMbmQzjDEwqyCJzZ/Whirl?m=auto&t=LvKHaYMX6cKdvpzh-6
 
 ## ✨ Features
 
