@@ -3,7 +3,7 @@ const modal = document.getElementById('signinModal');
 const closeBtn = document.getElementById('closeModalBtn');
 
 const forgotModal = document.getElementById('forgotModal');
-const forgotCloseBtn = document.getElementById('forgotModal');
+const forgotCloseBtn = document.getElementById('closeForgotBtn');
 const forgotLink = document.querySelector('.modal__forgot');
 const backToSignInLink = document.querySelector('.modal__back-to-login');
 const signUpLinkInForgot = document.querySelector('#forgotModal .modal__link');
